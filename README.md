@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Piyas Sur 👋
 
-<!--
-**Piyas237/Piyas237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🎓 Computer Science Student
+- ☕ Learning Java, C and Git
+- 🌱 Interested in Software Development and Open Source
 
-Here are some ideas to get you started:
+## 🛠️ Languages & Tools
+- Java
+- C
+- Git
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Version Control with Git
+
+## 🎯 Goals
+- Build meaningful projects
+- Contribute to Open Source
+- Continuously improve my programming skills
+
+Thanks for visiting my profile! 😊
