@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 - 🎓 Computer Science Student
-- ☕ Learning C, Python and Git
+- ☕ Learning C, Git and Python  
 - 🤖 Interested in AI/ML
 - 🌱 Interested in Software Development and Open Source
   
